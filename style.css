@@ -78,7 +78,7 @@ html, body {
     cursor: pointer;
 }
 
-/* @media only screen and (max-width: 730px){
+@media only screen and (max-width: 730px){
     #ptop{
         padding: 10px 10%;
 
@@ -98,7 +98,7 @@ html, body {
         padding: 8px 15px;
         font-size: 18px;
     }
-} */
+}
 
 /* @media (max-width: 600px) {
     #ptop {
