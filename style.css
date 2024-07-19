@@ -78,7 +78,7 @@ html, body {
     cursor: pointer;
 }
 
-@media only screen and (max-width: 730px){
+/* @media only screen and (max-width: 730px){
     #ptop{
         padding: 10px 10%;
 
@@ -98,4 +98,21 @@ html, body {
         padding: 8px 15px;
         font-size: 18px;
     }
-}
+} */
+
+/* @media (max-width: 600px) {
+    #ptop {
+        padding: 0 5%;
+        height: 15%;
+    }
+    .elem h2, .box {
+        font-size: 1em;
+    }
+    .box {
+        padding: 5px;
+    }
+    .bubble {
+        width: 20%;
+        height: 20%;
+    }
+} */
